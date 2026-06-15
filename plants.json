@@ -1280,6 +1280,327 @@
     ],
     "application": "Lepa: Seeds ground with fresh lime juice into a thick paste and rubbed directly into active ringworm margins.",
     "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Champaka",
+    "botanical": "Magnolia champaca",
+    "sanskrit": "चम्पक",
+    "family": "Magnoliaceae",
+    "category": "NERVINE",
+    "use": "The highly aromatic golden flower tree; used to quickly cool burning urinary tracts, alleviate vertigo attacks, and soothe hyper-excited nervous systems.",
+    "compounds": ["CHAMPACENE", "LIRIODENINE", "SESQUITERPENE LACTONES"],
+    "parts": "Flowers and bark",
+    "mechanisms": [
+      {"title": "Central Nervous Grounding", "desc": "Volatile champacene fractions pass the olfactory axis to lower stress-induced adrenaline spikes, calming spinning head sensations."},
+      {"title": "Glomerular Heat Filtration", "desc": "Flushes localized chemical heat from the kidneys to stop agonizing burning during urination loops."}
+    ],
+    "application": "Hima: Cold flower infusion (10-20ml) taken with a touch of rock sugar during afternoon heat waves.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Changeri",
+    "botanical": "Oxalis corniculata",
+    "sanskrit": "चाङ्गेरी",
+    "family": "Oxalidaceae",
+    "category": "DIGESTIVE",
+    "use": "The 'Indian Sorrel'; a delicate, sour-leafed herb specialized in reversing rectal prolapse, healing bleeding piles, and correcting chronic malabsorption.",
+    "compounds": ["OXALIC ACID", "VITAMIN C", "VITEXIN", "ISOVITEXIN"],
+    "parts": "Whole fresh herb juice",
+    "mechanisms": [
+      {"title": "Pelvic Sphincter Toning", "desc": "Organic acid configurations trigger a localized astringent reflex, tightening and lifting weak, sagging rectal tissues back into place."},
+      {"title": "Digestive Acid Secretion", "desc": "Stimulates the stomach's parietal cells to resume standard acid deployment, instantly lifting a dead appetite field."}
+    ],
+    "application": "Ghrta: Fresh herb juice processed into medicated clarified butter (5ml) taken warm before daytime meals.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Changeri alternative",
+    "botanical": "Oxalis acetosella",
+    "sanskrit": "तिनपत्तिया",
+    "family": "Oxalidaceae",
+    "category": "DIGESTIVE",
+    "use": "The wood sorrel variant; heavily relied upon to quickly arrest severe bilious vomiting, cool systemic hepatic heat, and relieve intense scorching thirst.",
+    "compounds": ["POTASSIUM OXALATE", "MALIC ACID", "MUCILAGE"],
+    "parts": "Fresh leaves",
+    "mechanisms": [
+      {"title": "Medullary Emetic Suppression", "desc": "Cooling organic acids act indirectly on the brain's chemoreceptor trigger zone to instantly quell violent upward gastric surges."},
+      {"title": "Salivary Flow Influx", "desc": "Triggers immediate parotid gland output to alleviate deep, unquenchable dry-throat states natively."}
+    ],
+    "application": "Svarasa: 5-10ml of freshly bruised leaf juice administered cold with a trace of candy sugar.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Danti alternative",
+    "botanical": "Baliospermum solanifolium",
+    "sanskrit": "द्रवन्ती",
+    "family": "Euphorbiaceae",
+    "category": "DIGESTIVE",
+    "use": "A distinct wild alternative used to trigger controlled hydrogogue purgation, empty dangerous fluid retention logs, and break up old pelvic masses.",
+    "compounds": ["BALIOSPERMIN", "PHORBOL ESTERS", "MONTANIN"],
+    "parts": "Purified seeds and root",
+    "mechanisms": [
+      {"title": "Mucosal Hyper-Permeability", "desc": "Forces an intense osmotic draw of serum directly into the intestinal lumen, causing rapid, sweeping watery evacuations."},
+      {"title": "Splenic Compression Clearance", "desc": "Drains sluggish deep visceral lymph pathways to effectively shrink internal abdominal swelling balances."}
+    ],
+    "application": "Churna: Processed seed mass (125-250mg) mixed into fresh castor oil for a complete morning colon purge.",
+    "source": "Suśruta Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Dhataki",
+    "botanical": "Woodfordia fruticosa",
+    "sanskrit": "धातकी",
+    "family": "Lythraceae",
+    "category": "DIGESTIVE",
+    "use": "The vital fire-red fermentation flower; acts as the primary natural yeast catalyst for all Asavas and Arishtas while binding loose, bleeding bowels.",
+    "compounds": ["WOODFORDIN A", "OENOTHEIN B", "TANNINS"],
+    "parts": "Dried flowers",
+    "mechanisms": [
+      {"title": "Wild Yeast Seeding Induction", "desc": "Surface microflora on the petals initiate clean, self-terminating ethanol fermentation patterns in sealed herbal sugars."},
+      {"title": "Intestinal Capillary Tightening", "desc": "Macrocyclic tannins clamp leaky intestinal wall configurations to safely stop chronic bleeding dysentery loop tracks."}
+    ],
+    "application": "Asa-Arishta Catalyst: Flowers added directly to liquid herbal vessels to drive natural alchemical fermentation loops.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Dhatura",
+    "botanical": "Datura metel",
+    "sanskrit": "धत्तूर",
+    "family": "Solanaceae",
+    "category": "NERVINE",
+    "use": "A highly dangerous, toxic nightshade processed via extensive cow-milk boiling to clear severe spastic asthma attacks, lockjaw, and intense nerve pain.",
+    "compounds": ["SCOPOLAMINE", "HYOSCYAMINE", "ATROPINE"],
+    "parts": "Fully detoxified seeds and leaves",
+    "mechanisms": [
+      {"title": "Competitive Muscarinic Blockade", "desc": "Alkaloids block parasympathetic acetylcholine receptors, instantly forcing tight, whistling bronchial tubes to dilate completely."},
+      {"title": "Central Secretory Arrest", "desc": "Dries up drowning fluid accumulations inside respiratory tracts by turning off mucosal gland output circuits."}
+    ],
+    "application": "Strictly Monitored Vati: 30-60mg of fully purified seed mass under direct clinical supervision.",
+    "source": "Rasaratna Samuccaya"
+  },
+  {
+    "name": "Dhatura alternative",
+    "botanical": "Datura stramonium",
+    "sanskrit": "कृष्ण धत्तूर",
+    "family": "Solanaceae",
+    "category": "NERVINE",
+    "use": "The fierce black thorn-apple; preferred for maximum potency in relieving agonizing sciatic nerve throbbing and resolving advanced hair-scalp parasitic dandruff loops.",
+    "compounds": ["ATROPINE", "DATURILINE", "WENTILACTONE"],
+    "parts": "Purified leaf juice and seeds",
+    "mechanisms": [
+      {"title": "Peripheral Pain Reflex Numbing", "desc": "Suppresses localized nociceptor transmission lines along deep nerve tracts to mute unyielding muscular spasms."},
+      {"title": "Ectoparasitic Chitin Lysis", "desc": "Topical alkaloids systematically paralyze external skin mites and stubborn fungal spores on contact tracks."},
+      {"title": "Antifungal Membrane Disruption", "desc": "Inhibits cell membrane synthesis in candida pathways, arresting active colony extensions."}
+    ],
+    "application": "Taila: Medicated leaf-juice oil applied strictly externally to aching joints or parasitic scalp areas.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Draksha",
+    "botanical": "Vitis vinifera",
+    "sanskrit": "द्राक्षा",
+    "family": "Vitaceae",
+    "category": "ADAPTOGEN",
+    "use": "The premium medical raisin; highly praised for lubricating burning lungs, clearing hard dry cough configurations, and acting as a mild, gentle laxative.",
+    "compounds": ["RESVERATROL", "PROANTHOCYANIDINS", "TARTARIC ACID"],
+    "parts": "Dried sweet fruits",
+    "mechanisms": [
+      {"title": "Respiratory Mucosal Demulcent", "desc": "Rich organic sugars and mucilage coat raw, irritated throat linings, instantly checking hacking dry cough cycles."},
+      {"title": "Somatic Nitric Oxide Expansion", "desc": "Resveratrol protects delicate vascular linings, promoting smooth blood flow and relieving overall weakness patterns."}
+    ],
+    "application": "Draksharishta: 15-30ml of the naturally fermented sweet tonic taken with equal parts water post-meals.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Durva",
+    "botanical": "Cynodon dactylon",
+    "sanskrit": "दूर्वा",
+    "family": "Poaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "The immortal Bermuda grass; the primary absolute tool to stop active nosebleeds, check heavy uterine hemorrhages, and cool down severe skin rashes.",
+    "compounds": ["CYNODONIN", "BETA-SITOSTEROL", "FLAVONOIDS"],
+    "parts": "Fresh whole grass juice",
+    "mechanisms": [
+      {"title": "Extrinsic Coagulation Acceleration", "desc": "Active plant principles prompt rapid fibrin web formation at open capillary breaches to arrest bleeding in seconds."},
+      {"title": "Systemic Mast Cell Cap", "desc": "Stabilizes systemic allergen gates to rapidly halt hot, spreading skin hives and flushing loops."}
+    ],
+    "application": "Svarasa: 10-20ml of fresh grass juice expressed with clean water, consumed cold at dawn.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Eranda",
+    "botanical": "Ricinus communis",
+    "sanskrit": "एरण्ड",
+    "family": "Euphorbiaceae",
+    "category": "DIGESTIVE",
+    "use": "The master root and oil for pacifying advanced neurological pain, unlocking stubborn dry constipation, and evacuating deep joint toxins.",
+    "compounds": ["RICINOLEIC ACID", "RICIN", "ALBUMIN"],
+    "parts": "Cold-pressed seed oil and roots",
+    "mechanisms": [
+      {"title": "EP3 Receptor Activation", "desc": "Ricinoleic acid binds directly to prostanoid receptors on intestinal smooth muscles, triggering clean, non-griping propulsive movements."},
+      {"title": "Pro-Inflammatory Cytokine Scavenging", "desc": "Root decoctions forcefully downregulate localized swelling fields surrounding locked sciatic nerve channels."}
+    ],
+    "application": "Taila: 10-20ml of pure cold-pressed castor oil taken at bedtime with a cup of warm ginger tea.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Eranda alternative",
+    "botanical": "Ricinus communis var. Sanguineus",
+    "sanskrit": "रक्त एरण्ड",
+    "family": "Euphorbiaceae",
+    "category": "DIGESTIVE",
+    "use": "The highly potent red-stemmed castor variant; specifically selected to break up advanced abdominal tumors, liver swellings, and severe arthritic stiffness.",
+    "compounds": ["RICINOLEIN", "ANTHOCYANINS", "RICININE"],
+    "parts": "Purified red roots and oil",
+    "mechanisms": [
+      {"title": "Deep Fibrotic Tissue Softening", "desc": "Aggressive lipid configurations penetrate and break down hardened cellular accumulations within stagnant abdominal fields."},
+      {"title": "Synovial Hydration Influx", "desc": "Forces systemic fluids back into dry, grinding joints, instantly relieving cold structural stiffness loops."}
+    ],
+    "application": "Kwatha: 20-30ml of the deep root decoction consumed warm before evening rest cycles.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Gambhari",
+    "botanical": "Gmelina arborea",
+    "sanskrit": "गम्भारी",
+    "family": "Lamiaceae",
+    "category": "ADAPTOGEN",
+    "use": "A major component of Dashamoola; highly prized for repairing damaged brain tissues, lifting low energy states, and securing fragile pregnancies.",
+    "compounds": ["GMEFINOL", "ARBOREOL", "LIGNANS"],
+    "parts": "Stem bark, roots, and yellow fruits",
+    "mechanisms": [
+      {"title": "Neuro-Vascular Matrix Shielding", "desc": "Lignans protect brain cells from oxidative damage, accelerating neurological coordination recovery scales cleanly."},
+      {"title": "Uterine Lining Stabilization", "desc": "Nutritive principles optimize local blood flow to the placenta, reassuring safe structural gestation loops."}
+    ],
+    "application": "Churna: 3-6g of the sweet fruit or bark powder administered with warm milk or honey daily.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Gunja",
+    "botanical": "Abrus precatorius",
+    "sanskrit": "गुञ्जा",
+    "family": "Fabaceae",
+    "category": "NERVINE",
+    "use": "A highly toxic seed variety carefully detoxified by boiling in milk to treat advanced hair fall, sciatica, facial paralysis, and stubborn skin diseases.",
+    "compounds": ["ABRIN", "ABRIC ACID", "PRECATORINE"],
+    "parts": "Purified seeds and roots",
+    "mechanisms": [
+      {"title": "Follicular Microvascular Influx", "desc": "Purified seed paste irritates localized scalp boundaries, forcing a rapid surge of blood to awaken dormant hair follicles."},
+      {"title": "Motor Neuron Activation", "desc": "Controlled micro-dosages stimulate depressed spinal reflex arcs to restore tone in paralyzed muscular layouts."}
+    ],
+    "application": "Lepa: Detoxified seed paste applied directly to patch-alopecia areas under strict clinical view.",
+    "source": "Rasaratna Samuccaya"
+  },
+  {
+    "name": "Hingula",
+    "botanical": "Ferula foetida",
+    "sanskrit": "हिंगु",
+    "family": "Apiaceae",
+    "category": "DIGESTIVE",
+    "use": "The essential pungent oleo-gum-resin used to instantly disperse severe intestinal gas, relieve agonizing colic, and break down stagnant, cold food blocks.",
+    "compounds": ["ASARESINOTANNOL", "FERULIC ACID", "UMBELLIFERONE", "PINENE"],
+    "parts": "Oleo-gum-resin from roots",
+    "mechanisms": [
+      {"title": "Gastrointestinal Smooth Muscle Spasmolysis", "desc": "Volatile sulfur compounds block localized calcium channels in the gut wall, melting away painful intestinal spasms in minutes."},
+      {"title": "Pancreatic Enzyme Ignition", "desc": "Triggers an immediate surge of pancreatic amylase and lipase to process heavy, greasy food elements cleanly."}
+    ],
+    "application": "Churna: 125-250mg of fried Hingula powder mixed into warm water or buttermilk post-meals.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Ingudi",
+    "botanical": "Balanites aegyptiaca",
+    "sanskrit": "इङ्गुदी",
+    "family": "Balanitaceae",
+    "category": "ANTIMICROBIAL",
+    "use": "Known as the 'Hermit's Tree'; used to clear stubborn skin ulcers, eradicate intestinal tapeworms, and heal deep, weeping wounds.",
+    "compounds": ["BALANITIN A-G", "DIOSGENIN", "CRYSTALLINE SAPONINS"],
+    "parts": "Seed oil, bark, and fruit pulp",
+    "mechanisms": [
+      {"title": "Parasitic Membrane Permeabilization", "desc": "High balanitin saponin contents disrupt cell membrane balances in helminthic pathogens, causing quick worm death and expulsion."},
+      {"title": "Granulation Tissue Acceleration", "desc": "Topical seed oil application clears dead tissue layers to rapidly generate healthy flesh over old sores."}
+    ],
+    "application": "Taila: Pure Ingudi seed oil applied topically over stubborn skin eruptions and chronic wounds.",
+    "source": "Caraka Saṃhitā"
+  },
+  {
+    "name": "Irimeda",
+    "botanical": "Vachellia leucophloea",
+    "sanskrit": "इरिमेद",
+    "family": "Fabaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "A highly astringent wild tree prized as the ultimate oral health tool to arrest severe dental bleeding, heal mouth ulcers, and cure loose, infected gums.",
+    "compounds": ["LEUCOPHLEOL", "LEUCOPHLEOXIDE", "CONDENSED TANNINS"],
+    "parts": "Stem bark",
+    "mechanisms": [
+      {"title": "Periodontal Protein Coagulation", "desc": "Aggressive tannins cross-link with weeping gingival surface proteins, forming an instant, defensive shield over bleeding areas."},
+      {"title": "Oral Pathogenic Biofilm Blast", "desc": "Alters localized microclimate parameters to halt the colonial spread of destructive tooth-decay bacteria."}
+    ],
+    "application": "Irimedadi Taila: Medicated bark-extract oil utilized for oil pulling (Gandusha) to completely fortify loose teeth.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Ishvari",
+    "botanical": "Aristolochia indica",
+    "sanskrit": "ईश्वरी",
+    "family": "Aristolochiaceae",
+    "category": "ANTIMICROBIAL",
+    "use": "A powerful, bitter antidote vine used under absolute restriction to neutralize venomous insect stings, break periodic fevers, and clear deep uterine stagnation.",
+    "compounds": ["ARISTOLOCHIC ACID", "ISHWARONE", "ARISTOLOCHINE"],
+    "parts": "Purified roots and leaves",
+    "mechanisms": [
+      {"title": "Foreign Venom Protein Cleavage", "desc": "Active bitter compounds bind with and degrade exogenous protein toxins injected via insect bites, neutralizing localized spread tracks."},
+      {"title": "Myometrial Contraction Induction", "desc": "Triggers a deep downward vascular sweep in the pelvis to safely resolve long-term missing period cycles."}
+    ],
+    "application": "Churna: Strictly micro-dosed (250-500mg) root powder taken with warm water for targeted toxic clearance.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Jambira",
+    "botanical": "Citrus limon",
+    "sanskrit": "जम्बीर",
+    "family": "Rutaceae",
+    "category": "DIGESTIVE",
+    "use": "The classical sharp lemon juice used to instantly cut through heavy salivary phlegm, settle morning sickness, and ignite a collapsed digestive fire.",
+    "compounds": ["CITRIC ACID", "ASCORBIC ACID", "LIMONENE", "BIOFLAVONOIDS"],
+    "parts": "Fresh fruit juice and rind oil",
+    "mechanisms": [
+      {"title": "Salivary and Gastric Cascade Trigger", "desc": "Intense sour organic acids excite the glossopharyngeal nerve, inducing an immediate, massive pour of salivary and stomach acid juices."},
+      {"title": "Visceral Flatulence Dispersal", "desc": "Resets the baseline rhythm of the stomach walls to clear up trapped, upward-moving gas pressures instantly."}
+    ],
+    "application": "Svarasa: 5-10ml fresh juice mixed into warm water with a pinch of rock salt before daytime meals.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Jambu",
+    "botanical": "Syzygium cumini",
+    "sanskrit": "जम्बू",
+    "family": "Myrtaceae",
+    "category": "DIGESTIVE",
+    "use": "The black plum tree; its seeds are the absolute classic choice to manage severe sugar anomalies, stop excessive urination, and arrest violent diarrheal flows.",
+    "compounds": ["JAMBOLINE", "ELLAGIC ACID", "MYRICETIN", "GALLIC ACID"],
+    "parts": "Seeds and stem bark",
+    "mechanisms": [
+      {"title": "Starch-to-Sugar Conversion Block", "desc": "Jamboline completely halts the conversion of dietary starches into free glucose inside the intestinal tract, avoiding sharp blood sugar spikes."},
+      {"title": "Renal Fluid Retaining Reflex", "desc": "Astringent principles modulate target bladder paths to reduce excessive, frequent nighttime fluid discharges safely."}
+    ],
+    "application": "Churna: 3-6g of fine seed powder taken with cool water twice daily before primary meals.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Jayapala",
+    "botanical": "Croton tiglium",
+    "sanskrit": "जयपाल",
+    "family": "Euphorbiaceae",
+    "category": "DIGESTIVE",
+    "use": "The most aggressive, extreme purgative seed known; heavily purified via boiling in cow-dung water to flush cerebral congestions, ascites, and absolute bowel locks.",
+    "compounds": ["CROTON OLEIN", "CROTONIC ACID", "PHORBOL ESTERS"],
+    "parts": "Extremely detoxified seeds",
+    "mechanisms": [
+      {"title": "Violent Intestinal Fluid Influx", "desc": "Phorbol esters trigger an instantaneous, powerful inflammatory sweep across the colonic lining, forcing a total watery evacuation within an hour."},
+      {"title": "Cerebral Congestion Drainage", "desc": "Draws excess blood and fluid pressures down from the upper skull cavity into the lower abdomen to preserve neurological baselines."}
+    ],
+    "application": "Strictly Monitored Micro-Vati: 25-50mg of fully purified seed paste under intense, immediate hospital watch.",
+    "source": "Rasaratna Samuccaya"
   }
 ]
 
