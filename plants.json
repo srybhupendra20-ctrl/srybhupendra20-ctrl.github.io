@@ -927,6 +927,182 @@
     ],
     "application": "Churna: 1-3g of fine root powder taken with honey; or flower infusion as a cooling neuro-protective tea.",
     "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Ativisha",
+    "botanical": "Aconitum heterophyllum",
+    "sanskrit": "अतिविषा",
+    "family": "Ranunculaceae",
+    "category": "DIGESTIVE",
+    "use": "A premium, non-toxic aconite variety highly celebrated for resolving pediatric digestive disorders, metabolic stagnation, and chronic loose motions.",
+    "compounds": ["ATIVEESINE", "HETEROPHYLLINE", "ATISINE"],
+    "parts": "Dried tuberous roots",
+    "mechanisms": [
+      {"title": "Enteric Cholinergic Modulation", "desc": "Atisine compounds balance hyperactive gut motility states without causing rebound intestinal paralysis or severe constipation loops."},
+      {"title": "Antipyretic Baseline Tuning", "desc": "Modulates central prostaglandin synthesis pathways to safely calm low-grade chronic metabolic fevers."}
+    ],
+    "application": "Churna: Strictly monitored micro-dosages of 500mg-1g of fine root powder administered with honey.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Danti",
+    "botanical": "Baliospermum montanum",
+    "sanskrit": "दन्ती",
+    "family": "Euphorbiaceae",
+    "category": "DIGESTIVE",
+    "use": "A heavy-acting root purgative utilized to forcefully clear deeply lodged liver stagnation, abdominal tumors, and system-wide fluid retention.",
+    "compounds": ["BALIOSPERMIN", "MONTANIN", "PHORBOL ESTERS"],
+    "parts": "Purified roots",
+    "mechanisms": [
+      {"title": "Mucosal Irritation Purgation", "desc": "Phorbol esters trigger a sharp, local inflammatory reflex in the intestinal walls, drawing systemic fluids into the bowel for complete evacuation."},
+      {"title": "Splenic Congestion Clearance", "desc": "Accelerates deep visceral lymph drainage pathways to shrink internal metabolic masses."}
+    ],
+    "application": "Vati: 250-500mg of root mass processed with pippali and honey to minimize griping pains.",
+    "source": "Suśruta Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Karkatashringi",
+    "botanical": "Pistacia integerrima",
+    "sanskrit": "कर्कटशृङ्गी",
+    "family": "Anacardiaceae",
+    "category": "ANTIMICROBIAL",
+    "use": "Distinct horn-like galls used as the primary weapon for childhood respiratory crises, spastic asthma fits, and continuous hacking coughs.",
+    "compounds": ["PISTACCIENONIC ACID", "PISTACIASTEROL", "TANNINS"],
+    "parts": "Insect-induced leaf galls",
+    "mechanisms": [
+      {"title": "Bronchial Smooth Muscle Spasmolysis", "desc": "Triterpenoids directly block voltage-gated calcium channels in the airway lining, dilating constricted bronchial tubes during fits."},
+      {"title": "Antihistaminic Degranulation Halt", "desc": "Stabilizes mast cell walls to quickly check acute allergic respiratory reactions."}
+    ],
+    "application": "Churna: 1-2g of fine gall powder mixed thoroughly with organic honey and fresh ginger juice.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Prishniparni",
+    "botanical": "Uraria picta",
+    "sanskrit": "पृश्निपर्णी",
+    "family": "Fabaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "A foundational member of the classic Dashamoola (Ten Roots) formula; prized for accelerating bone fracture healing and settling vascular inflammation.",
+    "compounds": ["ALKLOIDS", "FLAVONOIDS", "ISOFLAVONES"],
+    "parts": "Whole plant or root",
+    "mechanisms": [
+      {"title": "Osteoblast Differentiation Promotion", "desc": "Isoflavone configurations accelerate bone-derived cells to rapidly deposit calcified structures over fractures."},
+      {"title": "Capillary Leakage Suppression", "desc": "Strengthens delicate endothelial basement structures to completely arrest inflammatory swelling loops."}
+    ],
+    "application": "Decoction: 15-30ml of root extract taken twice daily for structural recovery support.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Shalaparni",
+    "botanical": "Desmodium gangeticum",
+    "sanskrit": "शालपर्णी",
+    "family": "Fabaceae",
+    "category": "ADAPTOGEN",
+    "use": "A premium cardiotonic nervine used to clear structural tissue debility, eliminate chronic low-grade cellular heat, and steady erratic pulse configurations.",
+    "compounds": ["GANGETIN", "DESMODIN", "PTEROCARPAN Derivatives"],
+    "parts": "Roots and whole herb",
+    "mechanisms": [
+      {"title": "Negative Inotropic Stabilizing", "desc": "Gangetin fractions modulate overly erratic cardiac rhythms caused by sympathetic stress surges cleanly."},
+      {"title": "Systemic TNF-Alpha Downregulation", "desc": "Suppresses key systemic pro-inflammatory cytokines to protect lean organ tissues from burning out."}
+    ],
+    "application": "Ksheerapaka: 3-6g of root matter decocted in milk and water, taken warm before sunrise.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Daruharidra",
+    "botanical": "Berberis aristata",
+    "sanskrit": "दारुहरिद्रा",
+    "family": "Berberidaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "Known as 'Tree Turmeric'; excellent for treating metabolic eye conditions, diabetic skin sores, and sluggish liver flow.",
+    "compounds": ["BERBERINE", "PALMATINE", "JATRORRHIZINE", "KARACHINE"],
+    "parts": "Stem bark and roots",
+    "mechanisms": [
+      {"title": "AMPK Pathway Activation", "desc": "Berberine acts as a profound activator of AMP-activated protein kinase, lowering liver glucose generation profiles."},
+      {"title": "Ocular Angiogenesis Mitigation", "desc": "Suppresses VEGF factors to keep delicate blood vessels within the retina from breaking down or leaking."}
+    ],
+    "application": "Rasanjana: Congealed extract paste used as an eye drop or paint for ocular heat and redness.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Bhallataka alternative",
+    "botanical": "Semecarpus anacardium",
+    "sanskrit": "भल्लातक",
+    "family": "Anacardiaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "A highly potent, toxic nut safely purified through classical alchemy to erase advanced rheumatoid conditions and tumors.",
+    "compounds": ["ANACARDIC ACID", "BHALLATAKOL", "SEMECARPOL"],
+    "parts": "Purified fruit nuts",
+    "mechanisms": [
+      {"title": "Lysosomal Membrane Stabilization", "desc": "Purified cardols halt the destructive leaking of joint-degrading enzymes within chronic arthritic zones."},
+      {"title": "Apoptotic Pathway Induction", "desc": "Exerts strong cell-sorting responses, causing self-destruction signals within anomalous tissue masses."}
+    ],
+    "application": "Ksheerapaka: Strictly micro-dosed (250-500mg) under medical monitoring, processed carefully in whole milk.",
+    "source": "Caraka Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Bhumyamalaki alternative 2",
+    "botanical": "Phyllanthus amarus",
+    "sanskrit": "भुईंआंवला",
+    "family": "Phyllanthaceae",
+    "category": "ANTIMICROBIAL",
+    "use": "A premium selection for clearing advanced arterial plaques, resolving deep thyroid sluggishness, and drying up cystic bone nodules.",
+    "compounds": ["PHYLLANTHIN", "HYPOPHYLLANTHIN", "NIRURIN"],
+    "parts": "Whole plant",
+    "mechanisms": [
+      {"title": "Polymerase Blockade", "desc": "Extracts actively inhibit endogenous viral DNA polymerase enzymes, safely halting target replication chains."},
+      {"title": "Glycogen Storage Restoration", "desc": "Protects and restores intracellular glycogen stores inside overstressed liver tissue sheets cleanly."}
+    ],
+    "application": "Juice or Paste: 10-20ml fresh juice or 5g fresh paste consumed before midday meals regularly.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Gokshura alternative",
+    "botanical": "Tribulus alatus",
+    "sanskrit": "त्रिकण्टक",
+    "family": "Zygophyllaceae",
+    "category": "ADAPTOGEN",
+    "use": "A desert-growing variant celebrated for elevated potency metrics in driving out deeply impacted kidney gravel and boosting free testosterone profiles.",
+    "compounds": ["ALATUSIDES A-F", "STERoidal saponins", "SPIROSTANOL"],
+    "parts": "Spiny winged fruits",
+    "mechanisms": [
+      {"title": "Androgen Receptor Up-regulation", "desc": "Spirostanol glycosides enhance the density of active cellular androgen binding points without unbalancing the LH pathway."},
+      {"title": "Glomerular Filtration Expansion", "desc": "Relaxes primary renal arterial gates, forcing a clean flushing speed across compressed urinary tracts."}
+    ],
+    "application": "Churna: 3-6g fruit powder steeped as a warm infusion, taken immediately after waking up."
+    "source": "Dhanvantari Nighaṇṭu"
+  },
+  {
+    "name": "Pippali alternative",
+    "botanical": "Piper retrofractum",
+    "sanskrit": "चव्य",
+    "family": "Piperaceae",
+    "category": "DIGESTIVE",
+    "use": "An intense, spicy vine stem relied on to incinerate cold gut congestion, clear chronic rectal swelling, and stimulate a sluggish metabolic engine.",
+    "compounds": ["RETROFRACTAMIDES", "PIPERINE", "PIPERLONGUMINE"],
+    "parts": "Fleshy root and stem",
+    "mechanisms": [
+      {"title": "Visceral Thermogenic Influx", "desc": "Retrofractamides prompt a rapid metabolic heat generation loop across the stomach wall, evaporating old mucous accumulation sheets."},
+      {"title": "Biliary Flush Stimulation", "desc": "Forces immediate downstream emptying of the gallbladder to sweep clean sluggish duodenal corridors."}
+    ],
+    "application": "Churna: 1-2g stem powder mixed into hot buttermilk or taken directly with warm water before heavy meals.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Vacha alternative 2",
+    "botanical": "Acorus gramineus",
+    "sanskrit": "हैमवती वचा",
+    "family": "Acoraceae",
+    "category": "NERVINE",
+    "use": "A high-altitude stream-dwelling rhizome used to restore fading sensory focus, clarify slurry speech behaviors, and steady inner neurological static.",
+    "compounds": ["ALPHA-ASARONE", "BETA-ASARONE", "GRAMINONE"],
+    "parts": "Aromatic alpine rhizome",
+    "mechanisms": [
+      {"title": "GABA Receptor Channel Gating", "desc": "Asarone variations interact directly with specific NMDA receptor tracking metrics, preventing structural cell burnout."},
+      {"title": "Cerebral Microcirculation Dilating", "desc": "Clears up stagnant metabolic debris along tiny blood pathways feeding the cognitive lobes natively."}
+    ],
+    "application": "Nasya: Micro-dosed (125mg) ultra-fine root powder sniffed gently into nasal passages under precise, specialized care.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
   }
 ]
-
+ 
