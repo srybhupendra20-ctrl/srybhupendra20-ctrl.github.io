@@ -1088,5 +1088,199 @@
     ],
     "application": "Churna: 1-3g of fine root powder mixed thoroughly into warm water or clarified butter after meals.",
     "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Akarakarabha",
+    "botanical": "Anacyclus pyrethrum",
+    "sanskrit": "अकरकरभ",
+    "family": "Asteraceae",
+    "category": "NERVINE",
+    "use": "A fiercely pungent root used as a premium nerve stimulant to treat facial paralysis, speech blocks, toothaches, and low libido.",
+    "compounds": ["ANACYCLIN", "PYRETHRIN", "PELLITORINE", "INULIN"],
+    "parts": "Dried root",
+    "mechanisms": [
+      {"title": "Local Na+ Channel Gating", "desc": "Pellitorine alkylamides stimulate sensory nerve endings on contact, triggering a massive salivary surge and intense local numbing relief."},
+      {"title": "Hypothalamic-Pituitary Influx", "desc": "Upregulates central pathways to significantly boost serum LH and testosterone secretion profiles."}
+    ],
+    "application": "Churna: 250-500mg micro-dosages taken with honey, or used as a warm oil massage for paralyzed muscles.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Apamarga",
+    "botanical": "Achyranthes aspera",
+    "sanskrit": "अपामार्ग",
+    "family": "Amaranthaceae",
+    "category": "DIGESTIVE",
+    "use": "Known as the 'Wipe-Out Herb'; utilized to dissolve hard kidney stones, erase deep abdominal fluid retention, and scrape away visceral fat.",
+    "compounds": ["ACHYRANTHINE", "OLEANOLIC ACID", "SAPONINS A & B"],
+    "parts": "Whole plant and seeds",
+    "mechanisms": [
+      {"title": "Alkaline Sludge Scraping", "desc": "High natural potassium content cuts through calcified urinary structures, dissolving gravel into easily flushable particles."},
+      {"title": "Satiety Center Activation", "desc": "Seeds downregulate excessive ghrelin patterns to suppress unnatural, ravaging hunger cycles cleanly."}
+    ],
+    "application": "Kshara (Alkaline Ash): 250-500mg of the highly refined plant ash dissolved in warm water after meals.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Arka",
+    "botanical": "Calotropis procera",
+    "sanskrit": "अर्क",
+    "family": "Apocynaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "A powerful, toxic latex shrub used after strict purification to instantly downregulate severe rheumatoid joint inflammation, ascites, and deep skin tumors.",
+    "compounds": ["CALOTROPIN", "CALACTIN", "USCHARIN", "MUDARINE"],
+    "parts": "Purified leaves, root bark, and latex",
+    "mechanisms": [
+      {"title": "Cardiac Glycoside Inotropism", "desc": "Calotropin exerts a potent digitalis-like squeeze on myocardial layouts, rapidly draining fluid pools from waterlogged tissues."},
+      {"title": "Lysosomal Disruption", "desc": "Aggressive latex enzymes digest cellular debris inside stagnant, hardened inflammatory nodules."}
+    ],
+    "application": "Arka Lavana: Highly processed leaf-salt matrix (125-250mg) administered carefully with warm water.",
+    "source": "Suśruta Saṃhitā"
+  },
+  {
+    "name": "Arka alternative",
+    "botanical": "Calotropis gigantea",
+    "sanskrit": "श्वेतार्क",
+    "family": "Apocynaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "The rare white-flowered variant; deeply revered for superior neurological tracking, clearing chronic sinus blocks, and dissolving deep ear infections.",
+    "compounds": ["GIGANTEOL", "CALOTROPONE", "ALPHA-AMYRIN"],
+    "parts": "Root bark and fresh latex",
+    "mechanisms": [
+      {"title": "Olfactory Mucosal Clearance", "desc": "Powdered root sniffed into the nostrils triggers an immediate explosive mucus discharge to relieve severe frontal sinus pressures."},
+      {"title": "Vagal Nerve Stimulation", "desc": "Modulates central autonomic reflex loops to check persistent, uncontrollable spasmodic hiccup patterns."}
+    ],
+    "application": "Taila: Medicated ear drops processed from white Arka juice to quickly dry up painful inner-ear pus channels.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Asthisamdhari",
+    "botanical": "Cissus quadrangularis",
+    "sanskrit": "अस्थिसंहारी",
+    "family": "Vitaceae",
+    "category": "ADAPTOGEN",
+    "use": "Literally translates to 'The Bone Welder'; engineered by nature to rapidly fuse broken bones, repair torn ligaments, and cure chronic osteoporosis.",
+    "compounds": ["KETOSTEROIDS", "QUADRANGULARIN A", "VITAMIN C", "BETA-SITOSTEROL"],
+    "parts": "Fleshy quadrangular stems",
+    "mechanisms": [
+      {"title": "Osteoblast Proliferation Blitz", "desc": "Plant ketosteroids act directly on target estrogen and androgen receptors in bone matrices, forcing rapid osteoblast cell division."},
+      {"title": "Fibroblastic Collagen Seeding", "desc": "Accelerates the early deposition of type-1 collagen fibers to rebuild torn tendon networks within days."}
+    ],
+    "application": "Churna: 3-6g of the dried stem powder mixed into a glass of warm milk, taken twice daily.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Babool",
+    "botanical": "Vachellia nilotica",
+    "sanskrit": "बब्बूल",
+    "family": "Fabaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "The master astringent tree used to instantly firm up loose bleeding gums, stop chronic diarrheal leakage, and dry up heavy vaginal discharge profiles.",
+    "compounds": ["GALLIC ACID", "CATECHIN", "ROBINETIN", "MUCILAGE"],
+    "parts": "Stem bark and organic gum resin",
+    "mechanisms": [
+      {"title": "Mucosal Membrane Cross-Linking", "desc": "Massive tannin content precipitates structural proteins on raw surfaces, forming a tight waterproof shield over bleeding arrays."},
+      {"title": "Microvascular Clamping", "desc": "Constricts leaky capillaries in the lower gut and reproductive tracts to check runaway fluid leaks safely."}
+    ],
+    "application": "Decoction: 15-30ml of bark extract used as a deep oral rinse for loose teeth, or taken internally.",
+    "source": "Dhanvantari Nighaṇṭu"
+  },
+  {
+    "name": "Bakuchi",
+    "botanical": "Psoralea corylifolia",
+    "sanskrit": "बाकुची",
+    "family": "Fabaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "The legendary classic remedy for Vitiligo (Shvitra); forces white skin patches to re-pigment while aggressively destroying localized skin fungal lines.",
+    "compounds": ["PSORALEN", "ISOPSORALEN", "BAKUCHIOL"],
+    "parts": "Mature seeds",
+    "mechanisms": [
+      {"title": "Melanoblast Proliferation Influx", "desc": "Psoralen molecules capture ambient UV light when applied to the skin, triggering localized melanocytes to produce fresh melanin pigment blocks."},
+      {"title": "Topical T-Cell De-activation", "desc": "Halts the localized auto-immune attack on skin pigment cells to stop white patches from extending."}
+    ],
+    "application": "Bakuchi Taila: Heavily diluted seed oil applied topically to white patches, followed by short, monitored sun exposure.",
+    "source": "Suśruta Saṃhitā, Cikitsāsthāna"
+  },
+  {
+    "name": "Bharangi",
+    "botanical": "Rotheca serrata",
+    "sanskrit": "भारङ्गी",
+    "family": "Lamiaceae",
+    "category": "ANTIMICROBIAL",
+    "use": "The premier choice for reversing severe allergic asthma attacks, chronic bronchitis, and hacking wheezing cycles in children.",
+    "compounds": ["HISPIDULIN", "SERRATAGENIC ACID", "OLEANOLIC ACID"],
+    "parts": "Roots",
+    "mechanisms": [
+      {"title": "Leukotriene Pathway Interruption", "desc": "Hispidulin isolates block the generation of 5-lipoxygenase metabolites, stopping sudden airway tightening triggers in its tracks."},
+      {"title": "Ciliary Clearance Acceleration", "desc": "Thins out sticky, hardened mucous plugs lodged in deep bronchial pathways, inducing clean expectoration."}
+    ],
+    "application": "Churna: 1-3g of root powder mixed with warm water and fresh ginger juice post-spasm waves.",
+    "source": "Aṣṭāṅga Hṛdayam"
+  },
+  {
+    "name": "Bhavya",
+    "botanical": "Dillenia indica",
+    "sanskrit": "भव्य",
+    "family": "Dilleniaceae",
+    "category": "DIGESTIVE",
+    "use": "Known as the 'Elephant Apple'; utilized to cool extreme stomach acidity, settle persistent cardiac palpitations, and clear toxic blood heat.",
+    "compounds": ["BETULINIC ACID", "BETULIN", "DILLENETIN", "STIGMASTEROL"],
+    "parts": "Fruit and bark juice",
+    "mechanisms": [
+      {"title": "Gastric Mucosal Cytoprotection", "desc": "Betulinic acid stimulates a thick, alkaline mucus barrier along the stomach wall, completely neutralizing rogue hydrochloric acid washes."},
+      {"title": "Myocardial Heat Clearance", "desc": "Soothes cardiac nerve cells, reducing rapid, erratic pulse flutterings caused by nervous exhaustion."}
+    ],
+    "application": "Svarasa: 10-20ml of the fresh, tart fruit juice mixed with a pinch of roasted cumin after meals.",
+    "source": "Caraka Saṃhitā, Sūtrasthāna"
+  },
+  {
+    "name": "Bijapura",
+    "botanical": "Citrus medica",
+    "sanskrit": "बीजपूर",
+    "family": "Rutaceae",
+    "category": "DIGESTIVE",
+    "use": "The giant Citron fruit; prized for instantly halting severe morning sickness, breaking down hard kidney stones, and relieving agonizing hangover headaches.",
+    "compounds": ["LIMONENE", "CITRIC ACID", "HESPERIDIN", "RUTIN"],
+    "parts": "Fresh fruit rind and juice",
+    "mechanisms": [
+      {"title": "Chelation of Urinary Salts", "desc": "High natural citrate concentrations bind forcefully with free calcium in the bladder, preventing the crystal growth of kidney gravel."},
+      {"title": "Chemoreceptor Zone Suppression", "desc": "Aromatic volatile terpenes in the rind reset the vagal vomiting reflex, settling hyper-acidic stomach nausea patterns instantly."}
+    ],
+    "application": "Panaka: 15ml fresh juice mixed into warm water with honey, or chewing the fresh bitter-sweet rind.",
+    "source": "Suśruta Saṃhitā"
+  },
+  {
+    "name": "Bilva alternative",
+    "botanical": "Limonia acidissima",
+    "sanskrit": "कपित्थ",
+    "family": "Rutaceae",
+    "category": "DIGESTIVE",
+    "use": "The 'Wood Apple'; a highly specific remedy for arresting violent chronic dysentery, neutralizing venomous insect bites, and firming up weak intestinal walls.",
+    "compounds": ["MARMESIN", "PSORALEN", "AURAPTEN", "PECTIN"],
+    "parts": "Unripe fruit pulp",
+    "mechanisms": [
+      {"title": "Intestinal Mucosal Coagulation", "desc": "Concentrated raw tannins precipitate surface proteins in the gut, forming an instant protective skin over bleeding ulcers to stop loose stools."},
+      {"title": "Systemic Enzyme Inhibition", "desc": "Active coumarins bind and neutralize foreign protein toxins introduced via insect stings."}
+    ],
+    "application": "Churna: 3-6g of dried unripe pulp powder taken with fresh sour buttermilk on an empty stomach.",
+    "source": "Bhāvaprakāśa Nighaṇṭu"
+  },
+  {
+    "name": "Chakramarda",
+    "botanical": "Senna tora",
+    "sanskrit": "चक्रमर्द",
+    "family": "Fabaceae",
+    "category": "ANTI-INFLAMMATORY",
+    "use": "Literally means 'The Destroyer of Ringworm'; specifically used to dry up weeping ringworm loops, stubborn psoriasis scales, and chronic scaling skin patches.",
+    "compounds": ["CHRYSOPHANOL", "EMODIN", "RHEIN", "TORACHRYSONE"],
+    "parts": "Seeds and fresh leaves",
+    "mechanisms": [
+      {"title": "Fungal Cell Wall Lysis", "desc": "Anthraquinones halt the respiration cycles of dermatophyte fungi, forcing the outer ringworm ring to collapse and dry up within days."},
+      {"title": "Keratolytic Scaling Reduction", "desc": "Gently dissolves thickened, dead epidermal cell groupings to quickly clear rough psoriatic skin configurations."}
+    ],
+    "application": "Lepa: Seeds ground with fresh lime juice into a thick paste and rubbed directly into active ringworm margins.",
+    "source": "Aṣṭāṅga Hṛdayam"
   }
 ]
+
+
